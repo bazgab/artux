@@ -19,11 +19,17 @@ Artux can be installed through PyPI for your terminal with the command:
 ```
 pip install artux
 ```
+Then we should cd into the directory and use the Poetry package manager to create a virtual environment and run the script:
+
+```
+poetry install
+```
+
 ## Using Artux
 
 The program is very straight-forward, to begin tracking, just simply type: 
 ```
->>> artux
+>>> poetry run artux
 ```
 in the terminal, the program will start and you will be able to see each CPU Core's temperature along with fan speed (in RPM) and the battery charge (in case you're using a laptop, if not it should always indicate 100% coming from your PSU).
 
