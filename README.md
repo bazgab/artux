@@ -27,7 +27,7 @@ poetry install
 
 ## Using Artux
 
-The program is very straight-forward, to begin tracking, just simply type: 
+To begin tracking, just type this command in the directory where the module is located: 
 ```
 >>> poetry run artux
 ```
@@ -37,4 +37,8 @@ To exit the program, close the terminal window or press <kbd>Ctrl</kbd> + <kbd>C
 
 ## Showcase
 ![example](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlpb3hpMmZzNDNmbG5xOG1reDMwNzMzdGQyeGxtMHk3a3MzNzlxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfZ2s0pmLtnbdTcgKL/giphy.gif)
+
+## Contributing
+
+Contributions are more than welcomed, a next step would be some work around to make the module more easily accessible globally. You can contact me directly over e-mail or create a PR and I will try my best to be quick on updates. 
 
