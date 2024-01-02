@@ -1,4 +1,7 @@
 """Temperature system check application"""
+#!/usr/bin/env python
+
+
 import os
 import psutil
 import sys
