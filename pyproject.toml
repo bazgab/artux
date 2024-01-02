@@ -17,8 +17,8 @@ classifiers = [
     "Operating System :: Unix",
 ]
 
-[prject.scripts]
-artux = "artux:main.py"
+[project.scripts]
+artux = "src.artux:main"
 
 [project.urls]
 Homepage = "https://github.com/bazgab/artux"
